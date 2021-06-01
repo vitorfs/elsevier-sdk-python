@@ -1,2 +1,2 @@
 apiclient==1.0.2
-urllib3==1.10.4
+urllib3==1.26.5
